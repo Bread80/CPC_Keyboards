@@ -12,11 +12,15 @@ This was intended as a cheaper alternative to a full mechanical board. In practi
 
 This design is not (currently) fully documented.
 
-### CPC464 Mechanical with SMT Diodes
+### [CPC464 Mechanical with SMT Diodes](Keyswitch_CPC464_SMT/README.md)
+
+![Assembled keyboard](Keyswitch_CPC464_SMT/Images/Keyboard.JPG)
 
 As the heading suggests, this is a board using mechanical keyswitches, and which fits into an original CPC464 case (all variants, as far as we are aware). It includes connector pinouts for both styles of motherboard connector. Solder links allow for use with a CPC6128. See the schematics for how to wire to a CPC664.
 
 The design uses SMT diodes which may present a soldering challenge to some, but the diodes and footprints have been chosen to make soldering as easy as possible.
+
+[View...](Keyswitch_CPC464_SMT/README.md)
 
 ### CPC6128 Mechanical with SMT Diodes
 
