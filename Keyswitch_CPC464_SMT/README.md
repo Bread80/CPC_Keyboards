@@ -2,7 +2,7 @@
 
 <a href="Images/Keyboard.JPG"><img src="Images/Keyboard.JPG" align="left" width="480" alt="Assembled keyboard"></a>
 <a href="Images/Keyboard2.JPG"><img src="Images/Keyboard2.JPG" align="left" width="480" alt="Assembled keyboard"></a>
-<br>
+<br/>
 This project is for an replacement keyboard for an Amstrad CPC464 using Cherry MX compatible keyswitches.
 
 The board is suitable for mounting within an existing CPC464 case and includes connections suitabe for both the single row 19/20-pin inline PCB type keyboard and the dual 10-pin connectors used by later membrane keyboards. It can also be used free standing, either with a CPC464 or CPC6128 - jumpers footprints are included to allow remapping of the dual 10-pin connectors. (The keyboard could also be used with a CPC664 but the lines will need remapping between the keyboard and motherboard. The schematic includes details). A third connector footprint is provided at the rear of the board with identical pinout to the 2x10-pin connector (and remapped via the same jumpers). This connector is intended to make the PCB easier to use as a free-standing board when, for example, using with a bare motherboard outside of a case.
