@@ -1,5 +1,6 @@
 # CPC464 Mechanical Keyboard (with SMT Diodes)
 
+<a href="url"><img src="Images/Keyboard.JPG" align="left" width="480" alt="Assembled keyboard"></a>
 ![Assembled keyboard](Images/Keyboard-small.jpg)![Assembled keyboard](Images/Keyboard2-small.jpg)
 
 This project is for an replacement keyboard for an Amstrad CPC464 using Cherry MX compatible keyswitches.
@@ -9,6 +10,8 @@ The board is suitable for mounting within an existing CPC464 case and includes c
 Footprints allow either direct soldering of the keyswitches to the board, or the use of MX hotswap sockets. Hotswap sockets allow keyswitches to be more easily swapped for different types or between boards. The board accepts either 3-pin or 5-pin keyswitches but NOTE: There is currently no mounting plate available. We therefore recommend only using 5-pin keyswitches, and NOT 3-pin ones (5-pin switches have two extra mounting lugs on the rear).
 
 The space bar has been reduced in width from the original 9u to a modern standard 7u. The space freed by this has allowed the addition of two 'bonus' keys. These can be mapped, via jumpers, to the main connectors for reading by the host computer, or can be connected to external hardware via the same jumpers.
+
+When fitted into an Amstrad CPC464 case there is a slight gap (0.5u wide, where 1u is one standard key width) to the right of the Enter key. This is, sadly, unavoidable due to available keycap sizes.
 
 ![Keyboard fitted into a CPC464 (top view)](Images/FittedFront-small.jpg)![Keyboard fitted into a CPC464 (rear view)](Images/FittedReverse-small.jpg)
 
