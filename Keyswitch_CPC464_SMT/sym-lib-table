@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Keyboard-rescue")(type "KiCad")(uri "${KIPRJMOD}/Keyboard-rescue.kicad_sym")(options "")(descr ""))
+)

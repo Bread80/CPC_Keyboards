@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CPCKeyboard")(type "KiCad")(uri "${KIPRJMOD}/CPCKeyboard.pretty")(options "")(descr ""))
+  (lib (name "Keyswitches")(type "KiCad")(uri "C:/Dropbox/InfoLaptop/Bread80/KicadLibs/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "CPC_Keyswitch")(type "KiCad")(uri "${KIPRJMOD}/CPC_Keyswitch.pretty")(options "")(descr ""))
+)
