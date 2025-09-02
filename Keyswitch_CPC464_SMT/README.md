@@ -146,4 +146,4 @@ You are welcome you sell items for cost plus reasonable postage fees. This allow
 ![Right end of assembled board](Images/AssembledRight.JPG)
 ![Assembled number pad](Images/AssembledNumpad.JPG)
 ![Assembled PCB, read](Images/AssembledRear.JPG)
-![Assembled instructions detail](Images/Instruction.JPG)
+![Assembled instructions detail](Images/Instructions.JPG)
