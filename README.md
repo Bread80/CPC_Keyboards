@@ -6,11 +6,13 @@ All of the above machines, CPC464, CPC664 and CPC6128, used an identical keyboar
 
 ## Available Boards
 
-### Tactile Keyboard
+### [Tactile Switch Keyboard](Tactile/README.md)
 
 This was intended as a cheaper alternative to a full mechanical board. In practice the switches and keycaps used don't offer a huge saving in cost. However, the PCB is significantly smaller (and therefore cheaper), the design doesn't use diodes, and the keycaps can be home-printed and, therefore, modified to your preference.
 
 This design is not (currently) fully documented.
+
+[View...](Tactile/README.md)
 
 ### [CPC464 Mechanical with SMT Diodes](Keyswitch_CPC464_SMT/README.md)
 
@@ -22,9 +24,11 @@ The design uses SMT diodes which may present a soldering challenge to some, but 
 
 [View...](Keyswitch_CPC464_SMT/README.md)
 
-### CPC6128 Mechanical with SMT Diodes
+### [CPC6128 Mechanical with SMT Diodes](Keyswitch_CPC6128_SMT/README.md)
 
 This board is still at the design stage and NOT suitable for production.
+
+[View...](Keyswitch_CPC6128_SMT/README.md)
 
 ## Licence
 
