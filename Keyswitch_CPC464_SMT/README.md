@@ -1,10 +1,7 @@
 # CPC464 Mechanical Keyboard (with SMT Diodes)
 
-<a href="Images/Keyboard.JPG"><img src="Images/Keyboard.JPG" align="left" width="480" alt="Assembled keyboard"></a>
-<a href="Images/Keyboard2.JPG"><img src="Images/Keyboard2.JPG" align="left" width="480" alt="Assembled keyboard"></a>
-![Keyboard fitted into a CPC464 (top view)](Images/Keyboard.JPG)![Keyboard fitted into a CPC464 (rear view)](Images/Keyboard2.JPG)
+![Assembled keyboard](Images/Keyboard.JPG)![Assembled keyboard](Images/Keyboard2.JPG)
 
-<br/>
 This project is for an replacement keyboard for an Amstrad CPC464 using Cherry MX compatible keyswitches.
 
 The board is suitable for mounting within an existing CPC464 case and includes connections suitabe for both the single row 19/20-pin inline PCB type keyboard and the dual 10-pin connectors used by later membrane keyboards. It can also be used free standing, either with a CPC464 or CPC6128 - jumpers footprints are included to allow remapping of the dual 10-pin connectors. (The keyboard could also be used with a CPC664 but the lines will need remapping between the keyboard and motherboard. The schematic includes details). A third connector footprint is provided at the rear of the board with identical pinout to the 2x10-pin connector (and remapped via the same jumpers). This connector is intended to make the PCB easier to use as a free-standing board when, for example, using with a bare motherboard outside of a case.
@@ -15,7 +12,7 @@ The space bar has been reduced in width from the original 9u to a modern standar
 
 When fitted into an Amstrad CPC464 case there is a slight gap (0.5u wide, where 1u is one standard key width) to the right of the Enter key. This is, sadly, unavoidable due to available keycap sizes.
 
-![Keyboard fitted into a CPC464 (top view)](Images/FittedFront-small.jpg)![Keyboard fitted into a CPC464 (rear view)](Images/FittedReverse-small.jpg)
+![Keyboard fitted into a CPC464 (top view)](Images/FittedFront.JPG)![Keyboard fitted into a CPC464 (rear view)](Images/FittedReverse.JPG)
 
 ## Bill or Materials (BoM)
 
@@ -37,8 +34,8 @@ If the board is used free-standing you will probably want to add some feet. The 
 
 ## Assembly
 
-![PCB front](Images/PCBFront-small.jpg)![PCB rear](Images/PCBRear-small.jpg)
-![Rear detail](Images/RearDetail-small.jpg)
+![PCB front](Images/PCBFront.JPG)![PCB rear](Images/PCBRear.JPG)
+![Rear detail](Images/RearDetail.JPG)
 
 Begin by orienting yourself to the board and, in particular, which side is the top and which the bottom. The top of the board boards the square outlines of the keyswitches, the bottom has the footprints for the hotswap sockets and diodes. Diodes, hotswap sockets (if used) and keyswitches (if not using sockets) are all soldered to the bottom of the board.
 
@@ -73,7 +70,7 @@ This one is easy! Insert the keyswitches, but make sure the pins are mounted int
 
 ## Jumper Settings
 
-![Bonus switches and jumpers detail](Images/JumpersBonus-small.jpg)
+![Bonus switches and jumpers detail](Images/JumpersBonus.JPG)
 
 
 'Bridging' a solder link entails soldering some bare wire between two pins on the link.
@@ -141,12 +138,12 @@ You are welcome you sell items for cost plus reasonable postage fees. This allow
 
 ## More Images
 
-![Fitted main section](Images/FittedMain-small.jpg)
-![Fitted number pad](Images/FittedNumpad-small.jpg)
-![Assembled main section](Images/AssembledMain-small.jpg)
-![Left end of assembled board](Images/AssembledLeft-small.jpg)
-![Detail of logo on assembled board](Images/AssembledLogo-small.jpg)
-![Right end of assembled board](Images/AssembledRight-small.jpg)
-![Assembled number pad](Images/AssembledNumpad-small.jpg)
-![Assembled PCB, read](Images/AssembledRear-small.jpg)
-![Assembled instructions detail](Images/Instructions-small.jpg)
+![Fitted main section](Images/FittedMain.JPG)
+![Fitted number pad](Images/FittedNumpad.JPG)
+![Assembled main section](Images/AssembledMain.JPG)
+![Left end of assembled board](Images/AssembledLeft.JPG)
+![Detail of logo on assembled board](Images/AssembledLogo.JPG)
+![Right end of assembled board](Images/AssembledRight.JPG)
+![Assembled number pad](Images/AssembledNumpad.JPG)
+![Assembled PCB, read](Images/AssembledRear.JPG)
+![Assembled instructions detail](Images/Instruction.JPG)
