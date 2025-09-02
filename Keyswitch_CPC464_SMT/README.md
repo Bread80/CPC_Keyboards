@@ -1,7 +1,7 @@
 # CPC464 Mechanical Keyboard (with SMT Diodes)
 
-<a href="url"><img src="Images/Keyboard.JPG" align="left" width="480" alt="Assembled keyboard"></a>
-![Assembled keyboard](Images/Keyboard-small.jpg)![Assembled keyboard](Images/Keyboard2-small.jpg)
+<a href="Images/Keyboard.JPG"><img src="Images/Keyboard.JPG" align="left" width="480" alt="Assembled keyboard"></a>
+<a href="Images/Keyboard2.JPG"><img src="Images/Keyboard2.JPG" align="left" width="480" alt="Assembled keyboard"></a>
 
 This project is for an replacement keyboard for an Amstrad CPC464 using Cherry MX compatible keyswitches.
 
