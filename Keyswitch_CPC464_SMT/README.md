@@ -4,13 +4,17 @@
 
 This project is for an replacement keyboard for an Amstrad CPC464 using Cherry MX compatible keyswitches.
 
-The board is suitable for mounting within an existing CPC464 case and includes connections suitabe for both the single row 19/20-pin inline PCB type keyboard and the dual 10-pin connectors used by later membrane keyboards. It can also be used free standing, either with a CPC464 or CPC6128 - jumpers footprints are included to allow remapping of the dual 10-pin connectors. (The keyboard could also be used with a CPC664 but the lines will need remapping between the keyboard and motherboard. The schematic includes details). A third connector footprint is provided at the rear of the board with identical pinout to the 2x10-pin connector (and remapped via the same jumpers). This connector is intended to make the PCB easier to use as a free-standing board when, for example, using with a bare motherboard outside of a case.
+The board is suitable for mounting within an existing CPC464 case and includes connections suitable for both the single row 19/20-pin inline PCB type keyboard and the dual 10-pin connectors used by later membrane keyboards. It can also be used free standing, either with a CPC464 or CPC6128 - jumpers footprints are included to allow remapping of the dual 10-pin connectors. (The keyboard could also be used with a CPC664 but the lines will need remapping between the keyboard and motherboard. The schematic includes details). A third connector footprint is provided at the rear of the board with identical pinout to the 2x10-pin connector (and remapped via the same jumpers). This connector is intended to make the PCB easier to use as a free-standing board when, for example, using with a bare motherboard outside of a case.
 
 Footprints allow either direct soldering of the keyswitches to the board, or the use of MX hotswap sockets. Hotswap sockets allow keyswitches to be more easily swapped for different types or between boards. The board accepts either 3-pin or 5-pin keyswitches but NOTE: There is currently no mounting plate available. We therefore recommend only using 5-pin keyswitches, and NOT 3-pin ones (5-pin switches have two extra mounting lugs on the rear).
 
 The space bar has been reduced in width from the original 9u to a modern standard 7u. The space freed by this has allowed the addition of two 'bonus' keys. These can be mapped, via jumpers, to the main connectors for reading by the host computer, or can be connected to external hardware via the same jumpers.
 
 When fitted into an Amstrad CPC464 case there is a slight gap (0.5u wide, where 1u is one standard key width) to the right of the Enter key. This is, sadly, unavoidable due to available keycap sizes.
+
+## Purchase PCBs
+
+You can download the gerbers from within the repository or purchase PCBs via PCBWay Shared Projects at https://www.pcbway.com/project/shareproject/Mechanical_Keyboard_for_Amstrad_CPC464_e66db4b2.html Disclaimer: we get a small commission if you purchase from PCBWay Shared Projects. This commission helps to fund our other open source projects.
 
 ![Keyboard fitted into a CPC464 (top view)](Images/FittedFront.JPG)![Keyboard fitted into a CPC464 (rear view)](Images/FittedReverse.JPG)
 
@@ -43,7 +47,7 @@ We suggest the following assembly sequence.
 
 1. Diodes
 
-Diodes must be installed in the correct orientation. If examined closely you will notice a white line across one end of the diode. On the PCB this end all the diodes must point towords the front (space bar end) of the board. It might be wise to test a few with a multimeter to verify you are have this correct.
+Diodes must be installed in the correct orientation. If examined closely you will notice a white line across one end of the diode. On the PCB this end all the diodes must point towards the front (space bar end) of the board. It might be wise to test a few with a multimeter to verify you are have this correct.
 
 2. Hotswap sockets (if using them)
 
@@ -57,7 +61,7 @@ For jumpers use some wire offcuts - perhaps resistor leads from a previous proje
 
 4. Stabilisers
 
-Check the manufacturers instructions. Pre-assembled ones are fairly straighforward, others are an IQ test which we often fail at on the first go. If the key doesn't press down properly you failed too.
+Check the manufacturers instructions. Pre-assembled ones are fairly straightforward, others are an IQ test which we often fail at on the first go. If the key doesn't press down properly you failed too.
 
 5. Keyswitches (if not using sockets)
 
@@ -75,7 +79,7 @@ This one is easy! Insert the keyswitches, but make sure the pins are mounted int
 
 'Bridging' a solder link entails soldering some bare wire between two pins on the link.
 
-If connecting to a '464 bridge LK2 and the two pins at the '464' end of LK1 (as shwon in the photo).
+If connecting to a '464 bridge LK2 and the two pins at the '464' end of LK1 (as shown in the photo).
 
 If connecting to a '6128 bridge LK3 and the two pins at the '6128' end of LK3.
 
@@ -134,7 +138,7 @@ Rather than re-arranging the keys the Amstrad firmware has support for remapping
 
 CERN-OHL-P
 
-You are welcome you sell items for cost plus reasonable postage fees. This allows you to pass on any overages from your PCB fab's minumum order levels. If you want to sell items for profit please talk to us first.
+You are welcome you sell items for cost plus reasonable postage fees. This allows you to pass on any overages from your PCB fab's minimum order levels. If you want to sell items for profit please talk to us first.
 
 ## More Images
 
